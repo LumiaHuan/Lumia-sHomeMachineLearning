@@ -1,4 +1,4 @@
-# Lumia's Home of Machine learning 
+# Lumia's Home of Machine learning
 
 Hello everybody, you can call me Lumia, this is my machine learning(ML) home.
 
@@ -16,4 +16,8 @@ If you want to contact with me, you can spark lumiahuan@gmail.com or follow [htt
 
 * Only put regression part of CART. That include regression and model tree. In model tree, I use ridge and closed form.
 * I put preprune algorithm in the creation of tree, and postprune by choosing
+
+**Sat Mar 12 2016**
+
+> Learn linear regression and SVM
 

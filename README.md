@@ -21,3 +21,10 @@ If you want to contact with me, you can spark lumiahuan@gmail.com or follow [htt
 
 > Learn linear regression and SVM
 
+**Wed Mar 16 2016**
+
+> Use scikit:
+> 
+> ​	SVM to classify face
+> 
+> ​	Naive Bayes to classify text

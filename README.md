@@ -28,3 +28,11 @@ If you want to contact with me, you can spark lumiahuan@gmail.com or follow [htt
 > ​	SVM to classify face
 > 
 > ​	Naive Bayes to classify text
+
+**Thu Mar 17 2016**
+
+> Use scikit:
+> 
+> ​	decision tree & random forest to classify Titanic survior
+> 
+> ​	leave-one-out cross validation

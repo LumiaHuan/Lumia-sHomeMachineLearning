@@ -23,7 +23,7 @@ If you want to contact with me, you can spark lumiahuan@gmail.com or follow [htt
 
 **Wed Mar 16 2016**
 
-> Use scikit:
+> Use sklearn:
 > 
 > ​	SVM to classify face
 > 
@@ -31,8 +31,21 @@ If you want to contact with me, you can spark lumiahuan@gmail.com or follow [htt
 
 **Thu Mar 17 2016**
 
-> Use scikit:
+> Use sklearn:
 > 
 > ​	decision tree & random forest to classify Titanic survior
 > 
 > ​	leave-one-out cross validation
+
+**Fri Mar 18 2016**
+
+> Use sklearn:
+> 
+> ​	Regression for house price predicting:
+> 
+> ​		linear(normal, ridge, lasso)
+> 
+> ​		SVM(linear, poly, rbf)
+> 
+> ​		**ExtraTrees :: I don't learn this kind of forest, so let me see :)**
+

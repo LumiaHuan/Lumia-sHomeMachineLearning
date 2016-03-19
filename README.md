@@ -49,3 +49,8 @@ If you want to contact with me, you can spark lumiahuan@gmail.com or follow [htt
 > 
 > ​		**ExtraTrees :: I don't learn this kind of forest, so let me see :)**
 
+**Sat Mar 19 2016**
+
+> Use sklearn:
+> 
+> ​	Cluttering handwriting digits by k-means

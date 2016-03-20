@@ -54,3 +54,10 @@ If you want to contact with me, you can spark lumiahuan@gmail.com or follow [htt
 > Use sklearn:
 > 
 > ​	Cluttering handwriting digits by k-means
+
+**Sat Mar 20 2016**
+
+> Use pandas:
+> 
+> ​	Retry the titanic-prediction question
+

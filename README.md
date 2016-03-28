@@ -61,3 +61,8 @@ If you want to contact with me, you can spark lumiahuan@gmail.com or follow [htt
 > 
 > ​	Retry the titanic-prediction question
 
+**Mon Mar 28 2016**
+
+> Kaggle:
+> 
+> ​	San Francisco Crime
